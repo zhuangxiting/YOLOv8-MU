@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="635d9cac-6440-4b90-af81-544f39f22dcb" name="YOLOv8(117)">
+        <fileTransfer rootFolder="/home/ubuntu/Desktop/JX/YOLOv8" accessType="SFTP" host="124.222.126.117" port="22" sshConfigId="f3dd17c1-e494-4432-b597-f9c3e308f134" sshConfig="ubuntu@124.222.126.117:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
